@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Woof</string>
+
+    <!-- Dog names -->
+    <string name="dog_name_1">Koda</string>
+    <string name="dog_name_2">Lola</string>
+    <string name="dog_name_3">Frankie</string>
+    <string name="dog_name_4">Nox</string>
+    <string name="dog_name_5">Faye</string>
+    <string name="dog_name_6">Bella</string>
+    <string name="dog_name_7">Moana</string>
+    <string name="dog_name_8">Tzeitel</string>
+    <string name="dog_name_9">Leroy</string>
+
+    <!-- Dog hobbies/descriptions -->
+    <string name="dog_description_1">Koda loves to run around the dog park. Koda\'s favorite toy is a squeaky bone.</string>
+    <string name="dog_description_2">Lola loves going on walks with her owners. Lola loves her little sweater in the fall.</string>
+    <string name="dog_description_3">Frankie loves to run. Frankie loves her ball.</string>
+    <string name="dog_description_4">Nox is a puppy. Nox loves to play tug of war.</string>
+    <string name="dog_description_5">Faye loves frisbee. Faye\'s favorite is a bright orange frisbee.</string>
+    <string name="dog_description_6">Bella loves playing fetch. Bella likes her purple frisbee best.</string>
+    <string name="dog_description_7">Moana loves swimming. Moana loves diving into the pool.</string>
+    <string name="dog_description_8">Tzeitel loves napping on the couch. Tzeitel\'s favorite blanket is a soft blue one.</string>
+    <string name="dog_description_9">Leroy loves hiking. Leroy always wears his hiking boots.</string>
+
+    <!-- Format string for age -->
+    <string name="years_old">%d years old</string>
+</resources>
